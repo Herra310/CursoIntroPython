@@ -78,6 +78,8 @@ deactivate
 
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
+![](../images/consolakata2.png)
+
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
 
